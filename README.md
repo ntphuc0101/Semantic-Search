@@ -1,7 +1,7 @@
 # Semantic-Search
 Semantic Search - Natural Language Processing
 
-### Using the info set from: https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm you shall build an enquiry and ranking system for taking a question as input and retrieving all the blogs that contain the terms and also are ranked.
+### Using the info set from: https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm I build shall build an enquiry and ranking system for taking a question as input and retrieving all the blogs that contain the terms and also are ranked.
 
 ### The query are provided as an English query joined does on google search.
 
