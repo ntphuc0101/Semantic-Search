@@ -9,6 +9,7 @@ Semantic Search - Natural Language Processing
 
 ### The queries may not contain the precise words as presented within the blogs, so please make sure that relevant words and similar word matches are taken into consideration.
 
+There are several steps in this project.
 1. Data Cleaning and Pre-processing.
 2. Using BERT to embedded paragraphs of papers using bert-base-nli-mean-tokens pretrained model.
 3. Find the closest 5 sentences of the corpus for every query sentence supported cosine similarity.
