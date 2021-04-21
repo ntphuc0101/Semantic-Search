@@ -7,5 +7,5 @@ Semantic Search - Natural Language Processing
 
 ## The query could contain sentence/keyword/phrases query.
 
-## Do confine mind, the queries may not contain the precise words as presented within the blogs, so please make sure that relevant words and similar word matches are taken into consideration.
+## The queries may not contain the precise words as presented within the blogs, so please make sure that relevant words and similar word matches are taken into consideration.
 
